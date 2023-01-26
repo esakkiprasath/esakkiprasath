@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/xT77XHIPBBGZL9m62I/giphy.gif" width="300"/>&nbsp&nbsp
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
 
 - 🔭 I’m currently working on **Electric vehicle**
 
