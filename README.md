@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
 
+<div id="header" align="center">
+<img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="200"/>&nbsp&nbsp
+  <img src="https://media3.giphy.com/media/xT77XHIPBBGZL9m62I/giphy.gif" width="300"/>&nbsp&nbsp
+  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" border="0" alt="animated-hurdling-image-0024" width="200"/></a>&nbsp&nbsp
+</div>
+
 - 🔭 I’m currently working on **Electric vehicle**
 
 - 🌱 I’m currently learning **machine learning,Data structures**
@@ -18,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esakkiprasath n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esakkiprasath n" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prasath_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prasath_04" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prasath_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prasath_4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/esakkiprasath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="esakkiprasath" height="30" width="40" /></a>
 </p>
 
