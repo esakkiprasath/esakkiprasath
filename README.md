@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esakkiprasath</h1>
 <h3 align="center">Electronics and communication engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
-
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="200"/>&nbsp&nbsp
   <img src="https://media3.giphy.com/media/xT77XHIPBBGZL9m62I/giphy.gif" width="300"/>&nbsp&nbsp
-  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" border="0" alt="animated-hurdling-image-0024" width="200"/></a>&nbsp&nbsp
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
 
 - 🔭 I’m currently working on **Electric vehicle**
 
