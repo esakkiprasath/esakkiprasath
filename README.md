@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Electric vehicle**
 
-- 🌱 I’m currently learning **machine learning,Data structures**
+- 🌱 I’m currently learning **Data structures and Problem solving**
 
 - 👨‍💻 All of my projects are available at [https://github.com/esakkiprasath](https://github.com/esakkiprasath)
 
