@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esakkiprasath" alt="esakkiprasath" /></a> </p>
 
-- 🔭 I’m currently working on **Electric vehicle**
+- 🔭 I’m currently working on **Developing my portfolio**
 
 - 🌱 I’m currently learning **Mern stack**
 
